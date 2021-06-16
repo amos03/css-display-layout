@@ -4,8 +4,6 @@
 }
 
 .wrapper {
-    display:flex;
-    flex-flow: row wrap;
     text-align: center;
 }
 
@@ -41,3 +39,10 @@
 }
 
 img {border-bottom: 4px solid white;}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    height: 5px;}

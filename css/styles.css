@@ -19,5 +19,16 @@
     color: white;
     font-size: xx-large;
     font-weight: bold;
-    height: 100px;
+    height: 40px;
+
+}
+.gallerycontainer {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    list-style: none;
+}
+.gallerypic {
+    flex-grow: 1;
 }

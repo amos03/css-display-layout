@@ -1,0 +1,13 @@
+* {
+    /* display: flex; */
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-flow: row wrap;
+    text-align: center;
+}
+.header {
+    background-color: black;
+    color: white;
+    height: 100px;
+}

@@ -20,6 +20,23 @@
     height: 40px;
 
 }
+
+.navcontainer {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    
+}
+
+.navitem {
+    background-color: darkgray;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    border-left: 5px solid white;
+}
+
 .gallerycontainer {
     display: flex;
     flex-direction: row;
